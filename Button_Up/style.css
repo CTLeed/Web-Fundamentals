@@ -1,0 +1,41 @@
+body {
+    padding: 40px 40px;
+}
+
+div {
+    margin: 20px
+}
+
+.search {
+    height: 30px;
+    width: 150px;
+    background-color: whitesmoke;
+    border: 2px solid lightseagreen;
+    border-radius: 50px;
+    color: lightseagreen;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.plus {
+    height: 40px;
+    width: 40px;
+    background-color: darkturquoise;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border: none;
+
+}
+
+.create_account {
+    height: 40px;
+    width: 200px;
+    background-color: royalblue;
+    border: 2px solid black;
+    box-shadow: 5px 5px black;
+    color: white;
+    font-size: 18px;
+    font-weight: 200;
+}
